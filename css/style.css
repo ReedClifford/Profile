@@ -1,0 +1,98 @@
+body{
+  margin: 30px;
+  background-color: #EAE2B6;
+}
+h1{
+
+  font-family: 'Pangolin', cursive;
+  font-size: 400%;
+  color: #558776;
+
+}
+h3{
+  font-family: 'Baloo Tammudu 2', cursive;
+  font-size: 100%;
+  color: #558776;
+
+}
+h4{
+  font-family: 'Baloo Tammudu 2', cursive;
+  font-size: 200%;
+  color: #7F8B52;
+
+}
+p{
+  font-family: 'Inconsolata', monospace;
+  color: #558776;
+  font-weight:bold;
+  line-height: 2;
+
+
+}
+.dottedHr{
+  border-style:  dotted none none none;
+  border-width: 30px;
+  border-color: #558776;
+  width: 20%;
+
+}
+.topContainer{
+  background-color: #A3A847;
+  border: solid;
+  border-color:#558776;
+  margin: 30px;
+  text-align: left;
+  height: 350px;
+  width: auto;
+}
+.detailsContainer{
+  float: left;
+  text-align: center;
+  padding: 30px;
+}
+
+.profile{
+  float: left;
+  margin: 40px 40px auto ;
+
+  height: 250px;
+  width: 250px;
+  border-radius: 100%;
+}
+.aboutMe{
+  width: 50%;
+  margin: 20px auto 20px auto;
+  text-align: left;
+}
+
+.socMed{
+  height: 25px;
+  width: 25px;
+  margin: 10px;
+}
+.coffee{
+  margin: 20px auto 20px auto;
+}
+.gaming{
+  margin: 20px auto 20px auto;
+}
+.coding{
+  margin: 20px auto 20px auto;
+}
+.coffeePng{
+  width: 50%;
+  float:left;
+  margin-right: 30px;
+
+}
+.gamingPng{
+  width: 50%;
+  float: right;
+  margin-left: 30px;
+
+}
+.codingPng{
+  width: 50%;
+  float:left;
+  margin-right: 30px;
+}
